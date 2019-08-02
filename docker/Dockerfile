@@ -26,3 +26,5 @@ RUN make
 
 # [Optional] Build custom ops
 RUN make ops
+
+RUN pip install pyyaml==3.12
