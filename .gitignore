@@ -36,3 +36,5 @@ configs_old/*
 
 
 .nfs*
+
+DensePoseData/infer_out/
